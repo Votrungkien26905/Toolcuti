@@ -3,8 +3,8 @@ Toolcuti
 Thông tin cơ bản:
 - Developer: KienBr (Võ Trung Kiên)
 - First Release: 23/07/2024
-- Lastest Realease: 23/07/2024
-- Current Version: beta 1.0.06
+- Lastest Realease: 23/08/2024
+- Current Version: Official Release 1.0
 
 Giới thiệu:
 - Toolcuti là một tool giúp mọi người có thể tính điểm sau những trận đua thông qua thời gian.
